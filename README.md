@@ -22,7 +22,3 @@ N/A
 ## License
 
 PLEASE REFER TO THE LICENSE IN THE REPO
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
